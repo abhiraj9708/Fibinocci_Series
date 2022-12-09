@@ -7,4 +7,4 @@ while sums < last_number:
     nth = a + b
     a = b
     b = nth
-    sums += 1
+    sums += 1#this line gona give you answer
